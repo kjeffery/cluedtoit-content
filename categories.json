@@ -5852,7 +5852,9 @@
       "section": "action_performance",
       "tagline": "Act it out, describe it, or mime your way through.",
       "description": "Guess professions and jobs from clues. Clue givers can describe what the person does, mime their actions, or describe their tools and workplace — but can't say the job title!",
-      "specialRules": ["Acting out the profession is encouraged!"],
+      "specialRules": [
+        "Acting out the profession is encouraged!"
+      ],
       "difficulty": "easy",
       "vibe": "performance",
       "icon": "briefcase",
@@ -5917,63 +5919,215 @@
       "section": "music",
       "tagline": "The soundtrack to every love story.",
       "description": "Guess iconic love songs from clues. Clue givers can hum the melody, describe the music video, name the artist, or describe what the song is about — but can't say the title or sing the lyrics!",
-      "specialRules": ["Humming is allowed, but no singing lyrics!"],
+      "specialRules": [
+        "Humming is allowed, but no singing lyrics!"
+      ],
       "difficulty": "medium",
       "vibe": "trivia",
       "icon": "heart",
       "free": false,
       "dateAdded": "2026-04-09",
       "cards": [
-        { "prompt": "I Will Always Love You", "answer": "Whitney Houston" },
-        { "prompt": "My Heart Will Go On", "answer": "Celine Dion" },
-        { "prompt": "Unchained Melody", "answer": "The Righteous Brothers" },
-        { "prompt": "Can't Help Falling in Love", "answer": "Elvis Presley" },
-        { "prompt": "At Last", "answer": "Etta James" },
-        { "prompt": "Endless Love", "answer": "Diana Ross & Lionel Richie" },
-        { "prompt": "I Don't Want to Miss a Thing", "answer": "Aerosmith" },
-        { "prompt": "Everything I Do (I Do It for You)", "answer": "Bryan Adams" },
-        { "prompt": "Amazed", "answer": "Lonestar" },
-        { "prompt": "Truly Madly Deeply", "answer": "Savage Garden" },
-        { "prompt": "I Knew You Were Trouble", "answer": "Taylor Swift" },
-        { "prompt": "Love Story", "answer": "Taylor Swift" },
-        { "prompt": "Thinking Out Loud", "answer": "Ed Sheeran" },
-        { "prompt": "Perfect", "answer": "Ed Sheeran" },
-        { "prompt": "All of Me", "answer": "John Legend" },
-        { "prompt": "Just the Way You Are", "answer": "Bruno Mars" },
-        { "prompt": "A Thousand Years", "answer": "Christina Perri" },
-        { "prompt": "Make You Feel My Love", "answer": "Adele" },
-        { "prompt": "Something", "answer": "The Beatles" },
-        { "prompt": "Let's Stay Together", "answer": "Al Green" },
-        { "prompt": "Crazy in Love", "answer": "Beyoncé" },
-        { "prompt": "No One", "answer": "Alicia Keys" },
-        { "prompt": "If I Ain't Got You", "answer": "Alicia Keys" },
-        { "prompt": "Fallin'", "answer": "Alicia Keys" },
-        { "prompt": "We Found Love", "answer": "Rihanna" },
-        { "prompt": "Someone Like You", "answer": "Adele" },
-        { "prompt": "Hello", "answer": "Adele" },
-        { "prompt": "Say You Won't Let Go", "answer": "James Arthur" },
-        { "prompt": "Lover", "answer": "Taylor Swift" },
-        { "prompt": "Shallow", "answer": "Lady Gaga & Bradley Cooper" },
-        { "prompt": "I Will Follow You into the Dark", "answer": "Death Cab for Cutie" },
-        { "prompt": "Your Song", "answer": "Elton John" },
-        { "prompt": "Wonderful Tonight", "answer": "Eric Clapton" },
-        { "prompt": "You Are the Sunshine of My Life", "answer": "Stevie Wonder" },
-        { "prompt": "Isn't She Lovely", "answer": "Stevie Wonder" },
-        { "prompt": "God Only Knows", "answer": "The Beach Boys" },
-        { "prompt": "Then He Kissed Me", "answer": "The Crystals" },
-        { "prompt": "I Got You Babe", "answer": "Sonny & Cher" },
-        { "prompt": "You're Still the One", "answer": "Shania Twain" },
-        { "prompt": "From This Moment On", "answer": "Shania Twain" },
-        { "prompt": "Bless the Broken Road", "answer": "Rascal Flatts" },
-        { "prompt": "Die With a Smile", "answer": "Lady Gaga & Bruno Mars" },
-        { "prompt": "Lucky", "answer": "Jason Mraz & Colbie Caillat" },
-        { "prompt": "You Are the Best Thing", "answer": "Ray LaMontagne" },
-        { "prompt": "XO", "answer": "Beyoncé" },
-        { "prompt": "Best Part", "answer": "Daniel Caesar & H.E.R." },
-        { "prompt": "Electric Love", "answer": "BØRNS" },
-        { "prompt": "L-O-V-E", "answer": "Nat King Cole" },
-        { "prompt": "The Way You Look Tonight", "answer": "Frank Sinatra" },
-        { "prompt": "It Had to Be You", "answer": "Harry Connick Jr." }
+        {
+          "prompt": "I Will Always Love You",
+          "answer": "Whitney Houston"
+        },
+        {
+          "prompt": "My Heart Will Go On",
+          "answer": "Celine Dion"
+        },
+        {
+          "prompt": "Unchained Melody",
+          "answer": "The Righteous Brothers"
+        },
+        {
+          "prompt": "Can't Help Falling in Love",
+          "answer": "Elvis Presley"
+        },
+        {
+          "prompt": "At Last",
+          "answer": "Etta James"
+        },
+        {
+          "prompt": "Endless Love",
+          "answer": "Diana Ross & Lionel Richie"
+        },
+        {
+          "prompt": "I Don't Want to Miss a Thing",
+          "answer": "Aerosmith"
+        },
+        {
+          "prompt": "Everything I Do (I Do It for You)",
+          "answer": "Bryan Adams"
+        },
+        {
+          "prompt": "Amazed",
+          "answer": "Lonestar"
+        },
+        {
+          "prompt": "Truly Madly Deeply",
+          "answer": "Savage Garden"
+        },
+        {
+          "prompt": "I Knew You Were Trouble",
+          "answer": "Taylor Swift"
+        },
+        {
+          "prompt": "Love Story",
+          "answer": "Taylor Swift"
+        },
+        {
+          "prompt": "Thinking Out Loud",
+          "answer": "Ed Sheeran"
+        },
+        {
+          "prompt": "Perfect",
+          "answer": "Ed Sheeran"
+        },
+        {
+          "prompt": "All of Me",
+          "answer": "John Legend"
+        },
+        {
+          "prompt": "Just the Way You Are",
+          "answer": "Bruno Mars"
+        },
+        {
+          "prompt": "A Thousand Years",
+          "answer": "Christina Perri"
+        },
+        {
+          "prompt": "Make You Feel My Love",
+          "answer": "Adele"
+        },
+        {
+          "prompt": "Something",
+          "answer": "The Beatles"
+        },
+        {
+          "prompt": "Let's Stay Together",
+          "answer": "Al Green"
+        },
+        {
+          "prompt": "Crazy in Love",
+          "answer": "Beyoncé"
+        },
+        {
+          "prompt": "No One",
+          "answer": "Alicia Keys"
+        },
+        {
+          "prompt": "If I Ain't Got You",
+          "answer": "Alicia Keys"
+        },
+        {
+          "prompt": "Fallin'",
+          "answer": "Alicia Keys"
+        },
+        {
+          "prompt": "We Found Love",
+          "answer": "Rihanna"
+        },
+        {
+          "prompt": "Someone Like You",
+          "answer": "Adele"
+        },
+        {
+          "prompt": "Hello",
+          "answer": "Adele"
+        },
+        {
+          "prompt": "Say You Won't Let Go",
+          "answer": "James Arthur"
+        },
+        {
+          "prompt": "Lover",
+          "answer": "Taylor Swift"
+        },
+        {
+          "prompt": "Shallow",
+          "answer": "Lady Gaga & Bradley Cooper"
+        },
+        {
+          "prompt": "I Will Follow You into the Dark",
+          "answer": "Death Cab for Cutie"
+        },
+        {
+          "prompt": "Your Song",
+          "answer": "Elton John"
+        },
+        {
+          "prompt": "Wonderful Tonight",
+          "answer": "Eric Clapton"
+        },
+        {
+          "prompt": "You Are the Sunshine of My Life",
+          "answer": "Stevie Wonder"
+        },
+        {
+          "prompt": "Isn't She Lovely",
+          "answer": "Stevie Wonder"
+        },
+        {
+          "prompt": "God Only Knows",
+          "answer": "The Beach Boys"
+        },
+        {
+          "prompt": "Then He Kissed Me",
+          "answer": "The Crystals"
+        },
+        {
+          "prompt": "I Got You Babe",
+          "answer": "Sonny & Cher"
+        },
+        {
+          "prompt": "You're Still the One",
+          "answer": "Shania Twain"
+        },
+        {
+          "prompt": "From This Moment On",
+          "answer": "Shania Twain"
+        },
+        {
+          "prompt": "Bless the Broken Road",
+          "answer": "Rascal Flatts"
+        },
+        {
+          "prompt": "Die With a Smile",
+          "answer": "Lady Gaga & Bruno Mars"
+        },
+        {
+          "prompt": "Lucky",
+          "answer": "Jason Mraz & Colbie Caillat"
+        },
+        {
+          "prompt": "You Are the Best Thing",
+          "answer": "Ray LaMontagne"
+        },
+        {
+          "prompt": "XO",
+          "answer": "Beyoncé"
+        },
+        {
+          "prompt": "Best Part",
+          "answer": "Daniel Caesar & H.E.R."
+        },
+        {
+          "prompt": "Electric Love",
+          "answer": "BØRNS"
+        },
+        {
+          "prompt": "L-O-V-E",
+          "answer": "Nat King Cole"
+        },
+        {
+          "prompt": "The Way You Look Tonight",
+          "answer": "Frank Sinatra"
+        },
+        {
+          "prompt": "It Had to Be You",
+          "answer": "Harry Connick Jr."
+        }
       ]
     },
     {
@@ -6191,6 +6345,252 @@
         "Festival of Ice",
         "Night Market",
         "Feast of the Winter Star"
+      ]
+    },
+    {
+      "id": "rides_disneyland",
+      "name": "Disneyland Rides",
+      "section": "knowledge_trivia",
+      "tagline": "The Happiest Place on Earth — one ride at a time.",
+      "description": "Guess the names of rides and attractions at Disneyland Resort in Anaheim, California. Clue givers can describe the ride experience, the theme, the land it's in, or characters involved — but no saying the name!",
+      "specialRules": [
+        "Includes attractions from both Disneyland Park and Disney California Adventure."
+      ],
+      "difficulty": "medium",
+      "vibe": "trivia",
+      "icon": "sparkles",
+      "free": false,
+      "dateAdded": "2026-04-13",
+      "cards": [
+        "Space Mountain",
+        "Pirates of the Caribbean",
+        "Haunted Mansion",
+        "Matterhorn Bobsleds",
+        "Indiana Jones Adventure",
+        "Splash Mountain",
+        "Big Thunder Mountain Railroad",
+        "It's a Small World",
+        "Star Tours",
+        "Jungle Cruise",
+        "Autopia",
+        "Astro Orbitor",
+        "Buzz Lightyear Astro Blasters",
+        "Finding Nemo Submarine Voyage",
+        "Roger Rabbit's Car Toon Spin",
+        "Mr. Toad's Wild Ride",
+        "Alice in Wonderland",
+        "Peter Pan's Flight",
+        "Pinocchio's Daring Journey",
+        "Snow White's Enchanted Wish",
+        "Dumbo the Flying Elephant",
+        "King Arthur Carrousel",
+        "Mad Tea Party",
+        "Storybook Land Canal Boats",
+        "Casey Jr. Circus Train",
+        "Mark Twain Riverboat",
+        "Sailing Ship Columbia",
+        "Davy Crockett's Explorer Canoes",
+        "Tom Sawyer Island",
+        "The Many Adventures of Winnie the Pooh",
+        "Millennium Falcon: Smugglers Run",
+        "Rise of the Resistance",
+        "Radiator Springs Racers",
+        "Guardians of the Galaxy: Mission Breakout",
+        "Incredicoaster",
+        "Toy Story Midway Mania",
+        "Soarin' Around the World",
+        "Grizzly River Run",
+        "Luigi's Rollickin' Roadsters",
+        "Mater's Junkyard Jamboree",
+        "Monsters, Inc. Mike & Sulley to the Rescue!",
+        "The Little Mermaid: Ariel's Undersea Adventure",
+        "Goofy's Sky School",
+        "Golden Zephyr",
+        "Silly Symphony Swings",
+        "Jumpin' Jellyfish",
+        "Emotional Whirlwind",
+        "Pixar Pal-A-Round",
+        "Tiana's Bayou Adventure",
+        "Haunted Mansion Holiday"
+      ]
+    },
+    {
+      "id": "rides_disney_world",
+      "name": "Disney World Rides",
+      "section": "knowledge_trivia",
+      "tagline": "The Most Magical Place on Earth — all four parks.",
+      "description": "Guess the names of rides and attractions at Walt Disney World in Orlando, Florida. Clue givers can describe the ride, its theme, which park it's in, or characters featured — but no saying the name!",
+      "specialRules": [
+        "Includes attractions from Magic Kingdom, EPCOT, Hollywood Studios, and Animal Kingdom."
+      ],
+      "difficulty": "medium",
+      "vibe": "trivia",
+      "icon": "sparkles",
+      "free": false,
+      "dateAdded": "2026-04-13",
+      "cards": [
+        "Space Mountain",
+        "Pirates of the Caribbean",
+        "Haunted Mansion",
+        "Big Thunder Mountain Railroad",
+        "Splash Mountain",
+        "Seven Dwarfs Mine Train",
+        "Tomorrowland Speedway",
+        "Buzz Lightyear's Space Ranger Spin",
+        "Tomorrowland Transit Authority PeopleMover",
+        "Astro Orbiter",
+        "The Barnstormer",
+        "Dumbo the Flying Elephant",
+        "It's a Small World",
+        "Peter Pan's Flight",
+        "The Many Adventures of Winnie the Pooh",
+        "Mad Tea Party",
+        "Prince Charming Regal Carrousel",
+        "Under the Sea: Journey of the Little Mermaid",
+        "Jungle Cruise",
+        "Tom Sawyer Island",
+        "Country Bear Jamboree",
+        "Liberty Belle Riverboat",
+        "Hall of Presidents",
+        "Tiana's Bayou Adventure",
+        "TRON Lightcycle Run",
+        "Test Track",
+        "Spaceship Earth",
+        "Frozen Ever After",
+        "Remy's Ratatouille Adventure",
+        "Soarin' Around the World",
+        "Living with the Land",
+        "Journey of Water Inspired by Moana",
+        "The Seas with Nemo & Friends",
+        "Guardians of the Galaxy: Cosmic Rewind",
+        "Mission: SPACE",
+        "Tower of Terror",
+        "Rock 'n' Roller Coaster",
+        "Slinky Dog Dash",
+        "Toy Story Mania!",
+        "Millennium Falcon: Smugglers Run",
+        "Rise of the Resistance",
+        "Mickey & Minnie's Runaway Railway",
+        "Alien Swirling Saucers",
+        "Expedition Everest",
+        "Kilimanjaro Safaris",
+        "Avatar Flight of Passage",
+        "Na'vi River Journey",
+        "Dinosaur",
+        "Kali River Rapids",
+        "TriceraTop Spin"
+      ]
+    },
+    {
+      "id": "rides_universal_hollywood",
+      "name": "Universal Studios Hollywood",
+      "section": "knowledge_trivia",
+      "tagline": "The Entertainment Capital of LA.",
+      "description": "Guess the names of rides and attractions at Universal Studios Hollywood in Los Angeles. Clue givers can describe the ride experience, the movie it's based on, or what happens on it — but no saying the name!",
+      "specialRules": [],
+      "difficulty": "medium",
+      "vibe": "trivia",
+      "icon": "sparkles",
+      "free": false,
+      "dateAdded": "2026-04-13",
+      "cards": [
+        "Harry Potter and the Forbidden Journey",
+        "Flight of the Hippogriff",
+        "Hagrid's Magical Creatures Motorbike Adventure",
+        "Mario Kart: Bowser's Challenge",
+        "Studio Tour",
+        "Jurassic World: The Ride",
+        "Revenge of the Mummy: The Ride",
+        "Transformers: The Ride 3D",
+        "The Simpsons Ride",
+        "Despicable Me Minion Mayhem",
+        "Secret Life of Pets: Off the Leash",
+        "Kung Fu Panda Adventure",
+        "Fast & Furious: Supercharged",
+        "King Kong 360 3-D",
+        "Jaws",
+        "WaterWorld",
+        "The Wizarding World of Harry Potter",
+        "Super Nintendo World",
+        "CityWalk",
+        "Ollivanders Wand Shop",
+        "Butterbeer",
+        "Yoshi's Adventure",
+        "DreamWorks Theatre featuring Kung Fu Panda",
+        "How to Train Your Dragon",
+        "Earthquake: The Big One",
+        "Psycho House",
+        "Bates Motel",
+        "Wisteria Lane",
+        "Whoville",
+        "Amity Island",
+        "Springfield USA",
+        "Krusty Burger",
+        "Moe's Tavern",
+        "Duff Brewery",
+        "Three Broomsticks",
+        "Hog's Head Pub",
+        "Honeydukes",
+        "Hogsmeade Village",
+        "Power-Up Band",
+        "1-Up Factory"
+      ]
+    },
+    {
+      "id": "rides_universal_orlando",
+      "name": "Universal Studios Orlando",
+      "section": "knowledge_trivia",
+      "tagline": "Two parks, endless thrills in Florida.",
+      "description": "Guess the names of rides and attractions at Universal Orlando Resort, including Universal Studios Florida, Islands of Adventure, and Epic Universe. Clue givers can describe the ride, the IP, or the experience — but no saying the name!",
+      "specialRules": [
+        "Includes attractions from Universal Studios Florida, Islands of Adventure, and Epic Universe."
+      ],
+      "difficulty": "medium",
+      "vibe": "trivia",
+      "icon": "sparkles",
+      "free": false,
+      "dateAdded": "2026-04-13",
+      "cards": [
+        "Harry Potter and the Forbidden Journey",
+        "Harry Potter and the Escape from Gringotts",
+        "Hagrid's Magical Creatures Motorbike Adventure",
+        "Hogwarts Express",
+        "Flight of the Hippogriff",
+        "The Incredible Hulk Coaster",
+        "The Amazing Adventures of Spider-Man",
+        "Jurassic World VelociCoaster",
+        "Jurassic Park River Adventure",
+        "Skull Island: Reign of Kong",
+        "Revenge of the Mummy",
+        "Transformers: The Ride 3D",
+        "Men in Black: Alien Attack",
+        "E.T. Adventure",
+        "The Simpsons Ride",
+        "Despicable Me Minion Mayhem",
+        "Race Through New York Starring Jimmy Fallon",
+        "Fast & Furious: Supercharged",
+        "Hagrid's Magical Creatures Motorbike Adventure",
+        "Doctor Doom's Fearfall",
+        "Storm Force Accelatron",
+        "The Cat in the Hat",
+        "One Fish, Two Fish, Red Fish, Blue Fish",
+        "The High in the Sky Seuss Trolley Train Ride",
+        "Caro-Seuss-el",
+        "Popeye & Bluto's Bilge-Rat Barges",
+        "Dudley Do-Right's Ripsaw Falls",
+        "Pteranodon Flyers",
+        "Camp Jurassic",
+        "Poseidon's Fury",
+        "Ollivanders Wand Shop",
+        "Butterbeer Cart",
+        "Diagon Alley",
+        "Hogsmeade Village",
+        "Volcano Bay",
+        "Krakatau Aqua Coaster",
+        "Starfall Racers",
+        "Stardust Racers",
+        "Mario Kart: Bowser's Challenge",
+        "Yoshi's Adventure"
       ]
     }
   ]
