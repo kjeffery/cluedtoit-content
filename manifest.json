@@ -1,1 +1,4 @@
-{ "contentHash": "f820dc29b278e088bad5f67003c701ab6bb6c217954475c6fe6ee5f5caf5b1e1" }
+{
+  "contentHash": "f820dc29b278e088bad5f67003c701ab6bb6c217954475c6fe6ee5f5caf5b1e1",
+  "minAppVersion": "1.4.0"
+}
