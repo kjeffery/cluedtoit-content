@@ -1846,6 +1846,239 @@
       ]
     },
     {
+      "id": "songs_metal",
+      "name": "Metal Anthems",
+      "section": "music",
+      "tagline": "Headbangers, mosh pits, and double-bass kicks.",
+      "description": "Name that song! Clue givers can hum, describe the music video, act out the vibe, or explain what the song is about — but no singing the actual words!",
+      "specialRules": [
+        "No singing the words!",
+        "Humming, describing, and acting are all fair game",
+        "Accept the song title OR the artist"
+      ],
+      "difficulty": "medium",
+      "vibe": "performance",
+      "icon": "guitars.fill",
+      "cards": [
+        {
+          "prompt": "Master of Puppets",
+          "answer": "Metallica"
+        },
+        {
+          "prompt": "One",
+          "answer": "Metallica"
+        },
+        {
+          "prompt": "Sad But True",
+          "answer": "Metallica"
+        },
+        {
+          "prompt": "For Whom the Bell Tolls",
+          "answer": "Metallica"
+        },
+        {
+          "prompt": "Fade to Black",
+          "answer": "Metallica"
+        },
+        {
+          "prompt": "Battery",
+          "answer": "Metallica"
+        },
+        {
+          "prompt": "The Number of the Beast",
+          "answer": "Iron Maiden"
+        },
+        {
+          "prompt": "Run to the Hills",
+          "answer": "Iron Maiden"
+        },
+        {
+          "prompt": "Fear of the Dark",
+          "answer": "Iron Maiden"
+        },
+        {
+          "prompt": "Hallowed Be Thy Name",
+          "answer": "Iron Maiden"
+        },
+        {
+          "prompt": "The Trooper",
+          "answer": "Iron Maiden"
+        },
+        {
+          "prompt": "Aces High",
+          "answer": "Iron Maiden"
+        },
+        {
+          "prompt": "War Pigs",
+          "answer": "Black Sabbath"
+        },
+        {
+          "prompt": "N.I.B.",
+          "answer": "Black Sabbath"
+        },
+        {
+          "prompt": "Children of the Grave",
+          "answer": "Black Sabbath"
+        },
+        {
+          "prompt": "Mr. Crowley",
+          "answer": "Ozzy Osbourne"
+        },
+        {
+          "prompt": "Bark at the Moon",
+          "answer": "Ozzy Osbourne"
+        },
+        {
+          "prompt": "Painkiller",
+          "answer": "Judas Priest"
+        },
+        {
+          "prompt": "Breaking the Law",
+          "answer": "Judas Priest"
+        },
+        {
+          "prompt": "Living After Midnight",
+          "answer": "Judas Priest"
+        },
+        {
+          "prompt": "Holy Diver",
+          "answer": "Dio"
+        },
+        {
+          "prompt": "Rainbow in the Dark",
+          "answer": "Dio"
+        },
+        {
+          "prompt": "The Last in Line",
+          "answer": "Dio"
+        },
+        {
+          "prompt": "Walk",
+          "answer": "Pantera"
+        },
+        {
+          "prompt": "Cowboys from Hell",
+          "answer": "Pantera"
+        },
+        {
+          "prompt": "Cemetery Gates",
+          "answer": "Pantera"
+        },
+        {
+          "prompt": "Chop Suey!",
+          "answer": "System of a Down"
+        },
+        {
+          "prompt": "Toxicity",
+          "answer": "System of a Down"
+        },
+        {
+          "prompt": "B.Y.O.B.",
+          "answer": "System of a Down"
+        },
+        {
+          "prompt": "Down with the Sickness",
+          "answer": "Disturbed"
+        },
+        {
+          "prompt": "Stricken",
+          "answer": "Disturbed"
+        },
+        {
+          "prompt": "Indestructible",
+          "answer": "Disturbed"
+        },
+        {
+          "prompt": "Bring Me to Life",
+          "answer": "Evanescence"
+        },
+        {
+          "prompt": "Freak on a Leash",
+          "answer": "Korn"
+        },
+        {
+          "prompt": "Falling Away from Me",
+          "answer": "Korn"
+        },
+        {
+          "prompt": "Duality",
+          "answer": "Slipknot"
+        },
+        {
+          "prompt": "Psychosocial",
+          "answer": "Slipknot"
+        },
+        {
+          "prompt": "Before I Forget",
+          "answer": "Slipknot"
+        },
+        {
+          "prompt": "Wait and Bleed",
+          "answer": "Slipknot"
+        },
+        {
+          "prompt": "Tears Don't Fall",
+          "answer": "Bullet for My Valentine"
+        },
+        {
+          "prompt": "Bat Country",
+          "answer": "Avenged Sevenfold"
+        },
+        {
+          "prompt": "Nightmare",
+          "answer": "Avenged Sevenfold"
+        },
+        {
+          "prompt": "A Little Piece of Heaven",
+          "answer": "Avenged Sevenfold"
+        },
+        {
+          "prompt": "Raining Blood",
+          "answer": "Slayer"
+        },
+        {
+          "prompt": "Angel of Death",
+          "answer": "Slayer"
+        },
+        {
+          "prompt": "South of Heaven",
+          "answer": "Slayer"
+        },
+        {
+          "prompt": "Hangar 18",
+          "answer": "Megadeth"
+        },
+        {
+          "prompt": "Symphony of Destruction",
+          "answer": "Megadeth"
+        },
+        {
+          "prompt": "Holy Wars... The Punishment Due",
+          "answer": "Megadeth"
+        },
+        {
+          "prompt": "Ace of Spades",
+          "answer": "Motörhead"
+        },
+        {
+          "prompt": "Bodies",
+          "answer": "Drowning Pool"
+        },
+        {
+          "prompt": "Lateralus",
+          "answer": "Tool"
+        },
+        {
+          "prompt": "Schism",
+          "answer": "Tool"
+        },
+        {
+          "prompt": "Sober",
+          "answer": "Tool"
+        }
+      ]
+    },
+    {
       "id": "songs_hiphop_rnb",
       "name": "Hip-Hop & R&B",
       "section": "music",
