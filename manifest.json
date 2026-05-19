@@ -1,6 +1,6 @@
 {
   "channels": [
-    { "id": "v1.4.0", "minAppVersion": "1.4.0", "contentHash": "0084879dddb8a07756c9fafabf00490bfe24b08e250088da41d2f76f6c8bf6e2", "categoriesPath": "categories.1.4.0.json" },
-    { "id": "v1.6.0", "minAppVersion": "1.6.0", "contentHash": "0084879dddb8a07756c9fafabf00490bfe24b08e250088da41d2f76f6c8bf6e2", "categoriesPath": "categories.1.6.0.json" }
+    { "id": "v1.4.0", "minAppVersion": "1.4.0", "contentHash": "bf905e590c48bc54a1483469fce2896ccbc864aca00ad41bed98a5b1a7df15ee", "categoriesPath": "categories.1.4.0.json" },
+    { "id": "v1.6.0", "minAppVersion": "1.6.0", "contentHash": "bf905e590c48bc54a1483469fce2896ccbc864aca00ad41bed98a5b1a7df15ee", "categoriesPath": "categories.1.6.0.json" }
   ]
 }
