@@ -11,6 +11,12 @@
       "minAppVersion": "1.7.0",
       "contentHash": "f9d13073f1927f36d0546012c1b58fb8f30499d4b48aa200467e8fa94c395a7a",
       "categoriesPath": "categories.1.7.0.json"
+    },
+    {
+      "id": "v1.8.0",
+      "minAppVersion": "1.8.0",
+      "contentHash": "f47e0bba7c244f1d8199091b6c92f679595606f4773ac39c32438634d3e0c834",
+      "categoriesPath": "categories.1.8.0.json"
     }
   ]
 }
