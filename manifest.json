@@ -15,13 +15,13 @@
     {
       "id": "v1.8.0",
       "minAppVersion": "1.8.0",
-      "contentHash": "f47e0bba7c244f1d8199091b6c92f679595606f4773ac39c32438634d3e0c834",
+      "contentHash": "310e087cdb172563c093b91f6b131f2b0ca932055ebb38384e07d6e16837d80d",
       "categoriesPath": "categories.1.8.0.json"
     },
     {
       "id": "v1.9.0",
       "minAppVersion": "1.9.0",
-      "contentHash": "36f9c809b2b1dea10b2eb80afbe44632166f8605c061bd4af70285aaa9a0d18d",
+      "contentHash": "7b3a8347136ed9e672e54820a14238d6b40316b2fe8da37121700edddcd42471",
       "categoriesPath": "categories.1.9.0.json"
     }
   ]
