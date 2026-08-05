@@ -1046,6 +1046,7 @@
       "specialRules": [],
       "difficulty": "hard",
       "vibe": "trivia",
+      "audience": "teens",
       "icon": "music.mic",
       "cards": [
         "BTS",
@@ -3522,6 +3523,7 @@
       "specialRules": [],
       "difficulty": "hard",
       "vibe": "rowdy",
+      "audience": "teens",
       "icon": "wifi",
       "cards": [
         "Rickrolling",
@@ -3891,6 +3893,7 @@
       "specialRules": [],
       "difficulty": "easy",
       "vibe": "social",
+      "audience": "kids",
       "icon": "face.smiling.fill",
       "free": true,
       "cards": [
@@ -4047,6 +4050,7 @@
       "specialRules": [],
       "difficulty": "medium",
       "vibe": "trivia",
+      "audience": "adults",
       "icon": "clock.arrow.circlepath",
       "cards": [
         "Tamagotchi",
@@ -5200,6 +5204,7 @@
       "specialRules": [],
       "difficulty": "medium",
       "vibe": "social",
+      "audience": "adults",
       "icon": "heart.fill",
       "cards": [
         "The Notebook",
@@ -5801,6 +5806,7 @@
       "specialRules": [],
       "difficulty": "medium",
       "vibe": "rowdy",
+      "audience": "teens",
       "icon": "sparkles",
       "free": false,
       "dateAdded": "2026-04-09",
@@ -7244,6 +7250,7 @@
       ],
       "difficulty": "easy",
       "vibe": "performance",
+      "audience": "kids",
       "icon": "waveform",
       "free": true,
       "cards": [
