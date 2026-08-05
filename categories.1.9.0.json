@@ -7294,6 +7294,7 @@
     {
       "id": "art_masterpieces",
       "name": "Masterpieces",
+      "dateAdded": "2026-08-04",
       "section": "knowledge_trivia",
       "tagline": "Art you know by sight.",
       "description": "Iconic works from the great masters of art history. Each card shows the painting so clue givers can describe what they see — colors, subjects, mood. Just don't name the title or the artist.",
