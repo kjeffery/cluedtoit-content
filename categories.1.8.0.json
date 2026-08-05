@@ -3250,13 +3250,11 @@
       "cards": [
         {
           "prompt": "Mona Lisa",
-          "answer": "Leonardo da Vinci",
-          "image": "painting_mona_lisa.heic"
+          "answer": "Leonardo da Vinci"
         },
         {
           "prompt": "Starry Night",
-          "answer": "Vincent van Gogh",
-          "image": "painting_starry_night.heic"
+          "answer": "Vincent van Gogh"
         },
         {
           "prompt": "The Scream",
@@ -7291,6 +7289,230 @@
         "Seal",
         "Kookaburra",
         "Woodpecker"
+      ]
+    },
+    {
+      "id": "art_masterpieces",
+      "name": "Masterpieces",
+      "section": "knowledge_trivia",
+      "tagline": "Art you know by sight.",
+      "description": "Iconic works from the great masters of art history. Each card shows the painting so clue givers can describe what they see — colors, subjects, mood. Just don't name the title or the artist.",
+      "specialRules": [],
+      "difficulty": "medium",
+      "vibe": "trivia",
+      "icon": "photo.artframe",
+      "free": true,
+      "cards": [
+        {
+          "prompt": "Mona Lisa",
+          "answer": "Leonardo da Vinci",
+          "image": "painting_mona_lisa.heic"
+        },
+        {
+          "prompt": "The Last Supper",
+          "answer": "Leonardo da Vinci",
+          "image": "painting_last_supper.heic"
+        },
+        {
+          "prompt": "The Birth of Venus",
+          "answer": "Sandro Botticelli",
+          "image": "painting_birth_of_venus.heic"
+        },
+        {
+          "prompt": "The Creation of Adam",
+          "answer": "Michelangelo",
+          "image": "painting_creation_of_adam.heic"
+        },
+        {
+          "prompt": "The School of Athens",
+          "answer": "Raphael",
+          "image": "painting_school_of_athens.heic"
+        },
+        {
+          "prompt": "The Night Watch",
+          "answer": "Rembrandt",
+          "image": "painting_night_watch.heic"
+        },
+        {
+          "prompt": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+          "answer": "Rembrandt",
+          "image": "painting_anatomy_lesson.heic"
+        },
+        {
+          "prompt": "Girl with a Pearl Earring",
+          "answer": "Johannes Vermeer",
+          "image": "painting_girl_with_pearl_earring.heic"
+        },
+        {
+          "prompt": "Las Meninas",
+          "answer": "Diego Velázquez",
+          "image": "painting_las_meninas.heic"
+        },
+        {
+          "prompt": "The Garden of Earthly Delights",
+          "answer": "Hieronymus Bosch",
+          "image": "painting_garden_of_earthly_delights.heic"
+        },
+        {
+          "prompt": "The Arnolfini Portrait",
+          "answer": "Jan van Eyck",
+          "image": "painting_arnolfini_portrait.heic"
+        },
+        {
+          "prompt": "Saturn Devouring His Son",
+          "answer": "Francisco Goya",
+          "image": "painting_saturn_devouring.heic"
+        },
+        {
+          "prompt": "The Third of May 1808",
+          "answer": "Francisco Goya",
+          "image": "painting_third_of_may.heic"
+        },
+        {
+          "prompt": "Napoleon Crossing the Alps",
+          "answer": "Jacques-Louis David",
+          "image": "painting_napoleon_crossing_alps.heic"
+        },
+        {
+          "prompt": "The Death of Marat",
+          "answer": "Jacques-Louis David",
+          "image": "painting_death_of_marat.heic"
+        },
+        {
+          "prompt": "Liberty Leading the People",
+          "answer": "Eugène Delacroix",
+          "image": "painting_liberty_leading_people.heic"
+        },
+        {
+          "prompt": "The Raft of the Medusa",
+          "answer": "Théodore Géricault",
+          "image": "painting_raft_of_medusa.heic"
+        },
+        {
+          "prompt": "The Hay Wain",
+          "answer": "John Constable",
+          "image": "painting_hay_wain.heic"
+        },
+        {
+          "prompt": "The Fighting Temeraire",
+          "answer": "J. M. W. Turner",
+          "image": "painting_fighting_temeraire.heic"
+        },
+        {
+          "prompt": "Wanderer Above the Sea of Fog",
+          "answer": "Caspar David Friedrich",
+          "image": "painting_wanderer_sea_of_fog.heic"
+        },
+        {
+          "prompt": "Whistler's Mother",
+          "answer": "James McNeill Whistler",
+          "image": "painting_whistlers_mother.heic"
+        },
+        {
+          "prompt": "Ophelia",
+          "answer": "John Everett Millais",
+          "image": "painting_ophelia.heic"
+        },
+        {
+          "prompt": "The Lady of Shalott",
+          "answer": "John William Waterhouse",
+          "image": "painting_lady_of_shalott.heic"
+        },
+        {
+          "prompt": "Impression, Sunrise",
+          "answer": "Claude Monet",
+          "image": "painting_impression_sunrise.heic"
+        },
+        {
+          "prompt": "Water Lilies",
+          "answer": "Claude Monet",
+          "image": "painting_water_lilies.heic"
+        },
+        {
+          "prompt": "Olympia",
+          "answer": "Édouard Manet",
+          "image": "painting_olympia.heic"
+        },
+        {
+          "prompt": "A Bar at the Folies-Bergère",
+          "answer": "Édouard Manet",
+          "image": "painting_bar_folies_bergere.heic"
+        },
+        {
+          "prompt": "Dance at Le Moulin de la Galette",
+          "answer": "Pierre-Auguste Renoir",
+          "image": "painting_moulin_de_la_galette.heic"
+        },
+        {
+          "prompt": "A Sunday on La Grande Jatte",
+          "answer": "Georges Seurat",
+          "image": "painting_grande_jatte.heic"
+        },
+        {
+          "prompt": "Starry Night",
+          "answer": "Vincent van Gogh",
+          "image": "painting_starry_night.heic"
+        },
+        {
+          "prompt": "Sunflowers",
+          "answer": "Vincent van Gogh",
+          "image": "painting_sunflowers.heic"
+        },
+        {
+          "prompt": "Café Terrace at Night",
+          "answer": "Vincent van Gogh",
+          "image": "painting_cafe_terrace_at_night.heic"
+        },
+        {
+          "prompt": "Starry Night Over the Rhône",
+          "answer": "Vincent van Gogh",
+          "image": "painting_starry_night_rhone.heic"
+        },
+        {
+          "prompt": "Self-Portrait with Bandaged Ear",
+          "answer": "Vincent van Gogh",
+          "image": "painting_self_portrait_bandaged_ear.heic"
+        },
+        {
+          "prompt": "Mont Sainte-Victoire",
+          "answer": "Paul Cézanne",
+          "image": "painting_mont_sainte_victoire.heic"
+        },
+        {
+          "prompt": "Where Do We Come From? What Are We? Where Are We Going?",
+          "answer": "Paul Gauguin",
+          "image": "painting_where_do_we_come_from.heic"
+        },
+        {
+          "prompt": "The Kiss",
+          "answer": "Gustav Klimt",
+          "image": "painting_the_kiss.heic"
+        },
+        {
+          "prompt": "The Scream",
+          "answer": "Edvard Munch",
+          "image": "painting_the_scream.heic"
+        },
+        {
+          "prompt": "The Great Wave off Kanagawa",
+          "answer": "Hokusai",
+          "image": "painting_great_wave.heic"
+        },
+        {
+          "prompt": "American Gothic",
+          "answer": "Grant Wood",
+          "image": "painting_american_gothic.heic"
+        },
+        {
+          "prompt": "Dogs Playing Poker",
+          "answer": "Cassius Marcellus Coolidge",
+          "image": "painting_dogs_playing_poker.heic"
+        },
+        {
+          "prompt": "Composition VIII",
+          "answer": "Wassily Kandinsky",
+          "image": "painting_composition_viii.heic"
+        }
       ]
     }
   ]
