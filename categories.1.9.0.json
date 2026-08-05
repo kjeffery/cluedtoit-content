@@ -7522,6 +7522,223 @@
           "image": "painting_composition_viii.heic"
         }
       ]
+    },
+    {
+      "id": "animals_baby",
+      "name": "Baby Animals",
+      "section": "knowledge_trivia",
+      "dateAdded": "2026-08-04",
+      "tagline": "Little ones you can name on sight.",
+      "description": "Adorable baby animals, shown in pictures. Clue givers describe the animal in the photo — what it looks like, what sound it makes, where it lives — and the guesser names it. Made for little players: the picture is the card, no reading needed.",
+      "specialRules": [],
+      "difficulty": "easy",
+      "vibe": "trivia",
+      "audience": "littleKids",
+      "imageLayout": "imagePrimary",
+      "icon": "pawprint.fill",
+      "free": true,
+      "cards": [
+        {
+          "prompt": "Puppy",
+          "answer": "Dog",
+          "image": "babyanimal_puppy.heic"
+        },
+        {
+          "prompt": "Kitten",
+          "answer": "Cat",
+          "image": "babyanimal_kitten.heic"
+        },
+        {
+          "prompt": "Bunny",
+          "answer": "Rabbit",
+          "image": "babyanimal_bunny.heic"
+        },
+        {
+          "prompt": "Duckling",
+          "answer": "Duck",
+          "image": "babyanimal_duckling.heic"
+        },
+        {
+          "prompt": "Chick",
+          "answer": "Chicken",
+          "image": "babyanimal_chick.heic"
+        },
+        {
+          "prompt": "Lamb",
+          "answer": "Sheep",
+          "image": "babyanimal_lamb.heic"
+        },
+        {
+          "prompt": "Piglet",
+          "answer": "Pig",
+          "image": "babyanimal_piglet.heic"
+        },
+        {
+          "prompt": "Foal",
+          "answer": "Horse",
+          "image": "babyanimal_foal.heic"
+        },
+        {
+          "prompt": "Fawn",
+          "answer": "Deer",
+          "image": "babyanimal_fawn.heic"
+        },
+        {
+          "prompt": "Baby Goat",
+          "answer": "Goat",
+          "image": "babyanimal_baby_goat.heic"
+        },
+        {
+          "prompt": "Calf",
+          "answer": "Cow",
+          "image": "babyanimal_calf.heic"
+        },
+        {
+          "prompt": "Bear Cub",
+          "answer": "Bear",
+          "image": "babyanimal_bear_cub.heic"
+        },
+        {
+          "prompt": "Lion Cub",
+          "answer": "Lion",
+          "image": "babyanimal_lion_cub.heic"
+        },
+        {
+          "prompt": "Tiger Cub",
+          "answer": "Tiger",
+          "image": "babyanimal_tiger_cub.heic"
+        },
+        {
+          "prompt": "Baby Elephant",
+          "image": "babyanimal_baby_elephant.heic"
+        },
+        {
+          "prompt": "Baby Giraffe",
+          "image": "babyanimal_baby_giraffe.heic"
+        },
+        {
+          "prompt": "Baby Monkey",
+          "image": "babyanimal_baby_monkey.heic"
+        },
+        {
+          "prompt": "Baby Kangaroo",
+          "image": "babyanimal_baby_kangaroo.heic"
+        },
+        {
+          "prompt": "Baby Koala",
+          "image": "babyanimal_baby_koala.heic"
+        },
+        {
+          "prompt": "Baby Panda",
+          "image": "babyanimal_baby_panda.heic"
+        },
+        {
+          "prompt": "Polar Bear Cub",
+          "image": "babyanimal_polar_bear_cub.heic"
+        },
+        {
+          "prompt": "Wolf Pup",
+          "answer": "Wolf",
+          "image": "babyanimal_wolf_pup.heic"
+        },
+        {
+          "prompt": "Baby Fox",
+          "answer": "Fox",
+          "image": "babyanimal_baby_fox.heic"
+        },
+        {
+          "prompt": "Baby Owl",
+          "answer": "Owl",
+          "image": "babyanimal_baby_owl.heic"
+        },
+        {
+          "prompt": "Gosling",
+          "answer": "Goose",
+          "image": "babyanimal_gosling.heic"
+        },
+        {
+          "prompt": "Baby Swan",
+          "answer": "Swan",
+          "image": "babyanimal_baby_swan.heic"
+        },
+        {
+          "prompt": "Tadpole",
+          "answer": "Frog",
+          "image": "babyanimal_tadpole.heic"
+        },
+        {
+          "prompt": "Baby Turtle",
+          "image": "babyanimal_baby_turtle.heic"
+        },
+        {
+          "prompt": "Baby Penguin",
+          "image": "babyanimal_baby_penguin.heic"
+        },
+        {
+          "prompt": "Baby Seal",
+          "image": "babyanimal_baby_seal.heic"
+        },
+        {
+          "prompt": "Baby Hippo",
+          "image": "babyanimal_baby_hippo.heic"
+        },
+        {
+          "prompt": "Baby Sloth",
+          "image": "babyanimal_baby_sloth.heic"
+        },
+        {
+          "prompt": "Baby Otter",
+          "image": "babyanimal_baby_otter.heic"
+        },
+        {
+          "prompt": "Baby Raccoon",
+          "image": "babyanimal_baby_raccoon.heic"
+        },
+        {
+          "prompt": "Baby Alligator",
+          "image": "babyanimal_baby_alligator.heic"
+        },
+        {
+          "prompt": "Baby Camel",
+          "image": "babyanimal_baby_camel.heic"
+        },
+        {
+          "prompt": "Baby Gorilla",
+          "image": "babyanimal_baby_gorilla.heic"
+        },
+        {
+          "prompt": "Baby Orangutan",
+          "image": "babyanimal_baby_orangutan.heic"
+        },
+        {
+          "prompt": "Baby Cheetah",
+          "image": "babyanimal_baby_cheetah.heic"
+        },
+        {
+          "prompt": "Baby Flamingo",
+          "image": "babyanimal_baby_flamingo.heic"
+        },
+        {
+          "prompt": "Baby Bison",
+          "image": "babyanimal_baby_bison.heic"
+        },
+        {
+          "prompt": "Baby Moose",
+          "image": "babyanimal_baby_moose.heic"
+        },
+        {
+          "prompt": "Baby Prairie Dog",
+          "image": "babyanimal_baby_prairie_dog.heic"
+        },
+        {
+          "prompt": "Baby Sea Lion",
+          "image": "babyanimal_baby_sea_lion.heic"
+        },
+        {
+          "prompt": "Baby Eagle",
+          "image": "babyanimal_baby_eagle.heic"
+        }
+      ]
     }
   ]
 }
