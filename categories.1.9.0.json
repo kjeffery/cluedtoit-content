@@ -7970,6 +7970,38 @@
         "She's your lobster",
         "Transponster"
       ]
+    },
+    {
+      "id": "things_that_go",
+      "name": "Things That Go",
+      "section": "knowledge_trivia",
+      "dateAdded": "2026-08-05",
+      "tagline": "Zoom, dig, fly, and float.",
+      "description": "Trucks, trains, boats, and flying machines, shown in pictures. Clue givers describe what it does, where it goes, or the sound it makes, and the guesser names it. Made for little players: the picture is the card, no reading needed.",
+      "specialRules": [],
+      "difficulty": "easy",
+      "vibe": "trivia",
+      "audience": "littleKids",
+      "imageLayout": "imagePrimary",
+      "icon": "car.fill",
+      "free": true,
+      "cards": []
+    },
+    {
+      "id": "whats_that_job",
+      "name": "What's That Job?",
+      "section": "knowledge_trivia",
+      "dateAdded": "2026-08-05",
+      "tagline": "Hats, helmets, and helpers.",
+      "description": "Firefighters, astronauts, chefs, and more, shown in pictures. Clue givers describe what the person does, what they wear, or where they work, and the guesser names the job. Made for little players: the picture is the card, no reading needed.",
+      "specialRules": [],
+      "difficulty": "easy",
+      "vibe": "trivia",
+      "audience": "littleKids",
+      "imageLayout": "imagePrimary",
+      "icon": "briefcase.fill",
+      "free": true,
+      "cards": []
     }
   ]
 }
