@@ -7982,7 +7982,180 @@
       "imageLayout": "imagePrimary",
       "icon": "car.fill",
       "free": true,
-      "cards": []
+      "cards": [
+        {
+          "prompt": "Fire Truck",
+          "image": "thing_fire_truck.heic"
+        },
+        {
+          "prompt": "Police Car",
+          "image": "thing_police_car.heic"
+        },
+        {
+          "prompt": "Ambulance",
+          "image": "thing_ambulance.heic"
+        },
+        {
+          "prompt": "School Bus",
+          "image": "thing_school_bus.heic"
+        },
+        {
+          "prompt": "City Bus",
+          "image": "thing_city_bus.heic"
+        },
+        {
+          "prompt": "Big Rig",
+          "image": "thing_big_rig.heic"
+        },
+        {
+          "prompt": "Pickup Truck",
+          "image": "thing_pickup_truck.heic"
+        },
+        {
+          "prompt": "Taxi",
+          "image": "thing_taxi.heic"
+        },
+        {
+          "prompt": "Train",
+          "image": "thing_train.heic"
+        },
+        {
+          "prompt": "Steam Train",
+          "image": "thing_steam_train.heic"
+        },
+        {
+          "prompt": "Tractor",
+          "image": "thing_tractor.heic"
+        },
+        {
+          "prompt": "Excavator",
+          "image": "thing_excavator.heic"
+        },
+        {
+          "prompt": "Crane",
+          "image": "thing_crane.heic"
+        },
+        {
+          "prompt": "Dump Truck",
+          "image": "thing_dump_truck.heic"
+        },
+        {
+          "prompt": "Garbage Truck",
+          "image": "thing_garbage_truck.heic"
+        },
+        {
+          "prompt": "Forklift",
+          "image": "thing_forklift.heic"
+        },
+        {
+          "prompt": "Airplane",
+          "image": "thing_airplane.heic"
+        },
+        {
+          "prompt": "Helicopter",
+          "image": "thing_helicopter.heic"
+        },
+        {
+          "prompt": "Hot Air Balloon",
+          "image": "thing_hot_air_balloon.heic"
+        },
+        {
+          "prompt": "Rocket",
+          "image": "thing_rocket.heic"
+        },
+        {
+          "prompt": "Sailboat",
+          "image": "thing_sailboat.heic"
+        },
+        {
+          "prompt": "Canoe",
+          "image": "thing_canoe.heic"
+        },
+        {
+          "prompt": "Kayak",
+          "image": "thing_kayak.heic"
+        },
+        {
+          "prompt": "Submarine",
+          "image": "thing_submarine.heic"
+        },
+        {
+          "prompt": "Motorcycle",
+          "image": "thing_motorcycle.heic"
+        },
+        {
+          "prompt": "Bicycle",
+          "image": "thing_bicycle.heic"
+        },
+        {
+          "prompt": "Skateboard",
+          "image": "thing_skateboard.heic"
+        },
+        {
+          "prompt": "Golf Cart",
+          "image": "thing_golf_cart.heic"
+        },
+        {
+          "prompt": "Snowplow",
+          "image": "thing_snowplow.heic"
+        },
+        {
+          "prompt": "Snowmobile",
+          "image": "thing_snowmobile.heic"
+        },
+        {
+          "prompt": "Tow Truck",
+          "image": "thing_tow_truck.heic"
+        },
+        {
+          "prompt": "Ice Cream Truck",
+          "image": "thing_ice_cream_truck.heic"
+        },
+        {
+          "prompt": "Monster Truck",
+          "image": "thing_monster_truck.heic"
+        },
+        {
+          "prompt": "Race Car",
+          "image": "thing_race_car.heic"
+        },
+        {
+          "prompt": "Cruise Ship",
+          "image": "thing_cruise_ship.heic"
+        },
+        {
+          "prompt": "Tugboat",
+          "image": "thing_tugboat.heic"
+        },
+        {
+          "prompt": "Horse and Carriage",
+          "image": "thing_horse_and_carriage.heic"
+        },
+        {
+          "prompt": "Dog Sled",
+          "image": "thing_dog_sled.heic"
+        },
+        {
+          "prompt": "Cable Car",
+          "image": "thing_cable_car.heic"
+        },
+        {
+          "prompt": "Blimp",
+          "image": "thing_blimp.heic"
+        },
+        {
+          "prompt": "Jet Ski",
+          "image": "thing_jet_ski.heic"
+        },
+        {
+          "prompt": "Fishing Boat",
+          "image": "thing_fishing_boat.heic"
+        },
+        {
+          "prompt": "Camper Van",
+          "image": "thing_camper_van.heic"
+        }
+      ]
     },
     {
       "id": "whats_that_job",
@@ -7998,7 +8171,148 @@
       "imageLayout": "imagePrimary",
       "icon": "briefcase.fill",
       "free": true,
-      "cards": []
+      "cards": [
+        {
+          "prompt": "Firefighter",
+          "image": "jobpic_firefighter.heic"
+        },
+        {
+          "prompt": "Police Officer",
+          "image": "jobpic_police_officer.heic"
+        },
+        {
+          "prompt": "Dentist",
+          "image": "jobpic_dentist.heic"
+        },
+        {
+          "prompt": "Teacher",
+          "image": "jobpic_teacher.heic"
+        },
+        {
+          "prompt": "Chef",
+          "image": "jobpic_chef.heic"
+        },
+        {
+          "prompt": "Baker",
+          "image": "jobpic_baker.heic"
+        },
+        {
+          "prompt": "Farmer",
+          "image": "jobpic_farmer.heic"
+        },
+        {
+          "prompt": "Astronaut",
+          "image": "jobpic_astronaut.heic"
+        },
+        {
+          "prompt": "Pilot",
+          "image": "jobpic_pilot.heic"
+        },
+        {
+          "prompt": "Mechanic",
+          "image": "jobpic_mechanic.heic"
+        },
+        {
+          "prompt": "Scientist",
+          "image": "jobpic_scientist.heic"
+        },
+        {
+          "prompt": "Barber",
+          "image": "jobpic_barber.heic"
+        },
+        {
+          "prompt": "Ballerina",
+          "image": "jobpic_ballerina.heic"
+        },
+        {
+          "prompt": "Musician",
+          "image": "jobpic_musician.heic"
+        },
+        {
+          "prompt": "Magician",
+          "image": "jobpic_magician.heic"
+        },
+        {
+          "prompt": "Lifeguard",
+          "image": "jobpic_lifeguard.heic"
+        },
+        {
+          "prompt": "Fisherman",
+          "image": "jobpic_fisherman.heic"
+        },
+        {
+          "prompt": "Cowboy",
+          "image": "jobpic_cowboy.heic"
+        },
+        {
+          "prompt": "Soldier",
+          "image": "jobpic_soldier.heic"
+        },
+        {
+          "prompt": "Sailor",
+          "image": "jobpic_sailor.heic"
+        },
+        {
+          "prompt": "Photographer",
+          "image": "jobpic_photographer.heic"
+        },
+        {
+          "prompt": "Waiter",
+          "image": "jobpic_waiter.heic"
+        },
+        {
+          "prompt": "Train Conductor",
+          "image": "jobpic_train_conductor.heic"
+        },
+        {
+          "prompt": "Zookeeper",
+          "image": "jobpic_zookeeper.heic"
+        },
+        {
+          "prompt": "Gardener",
+          "image": "jobpic_gardener.heic"
+        },
+        {
+          "prompt": "Crossing Guard",
+          "image": "jobpic_crossing_guard.heic"
+        },
+        {
+          "prompt": "Referee",
+          "image": "jobpic_referee.heic"
+        },
+        {
+          "prompt": "Carpenter",
+          "image": "jobpic_carpenter.heic"
+        },
+        {
+          "prompt": "Beekeeper",
+          "image": "jobpic_beekeeper.heic"
+        },
+        {
+          "prompt": "Scuba Diver",
+          "image": "jobpic_scuba_diver.heic"
+        },
+        {
+          "prompt": "Park Ranger",
+          "image": "jobpic_park_ranger.heic"
+        },
+        {
+          "prompt": "Artist",
+          "image": "jobpic_artist.heic"
+        },
+        {
+          "prompt": "Paramedic",
+          "image": "jobpic_paramedic.heic"
+        },
+        {
+          "prompt": "Veterinarian",
+          "image": "jobpic_veterinarian.heic"
+        },
+        {
+          "prompt": "Construction Worker",
+          "image": "jobpic_construction_worker.heic"
+        }
+      ]
     }
   ]
 }
